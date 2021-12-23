@@ -1,0 +1,1 @@
+*/1 * * * * root /usr/local/bin/php /app/index.php >> /var/log/cron.log
